@@ -1,0 +1,74 @@
+10:13:18 engine run - t:1 Infos:   Engine finished in: 2503.056 secs.
+10:13:18 engine run - t:1 Infos:   Updates: 246313680
+10:13:18 pagerank main - t:1 Infos:   Ready.
+10:13:18 vertex-data <init> - t:1 Infos:   Sparse vertex data was allowed but sparse degree file did not exist  using dense
+10:13:18 vertex-data <init> - t:1 Infos:   Vertex file [/Users/Thibault/Documents/graphchi-java/../MLSM_Project/twitter_rv.net.4Bj.vout] length: 246313680, nvertices=61578420, expected size: 246313680
+1: 813286 = 14462.096
+2: 14224719 = 11639.118
+3: 15131310 = 10071.786
+4: 31567254 = 8453.896
+5: 16409683 = 8398.608
+6: 14075928 = 6717.545
+7: 7040932 = 6647.0913
+8: 12687952 = 5100.095
+9: 5380672 = 4901.661
+10: 26784273 = 3122.0684
+11: 17850012 = 2700.4937
+12: 5741722 = 2669.3687
+13: 6149912 = 2509.3833
+14: 5210841 = 2446.6694
+15: 20385404 = 2432.9028
+16: 14389132 = 2423.6914
+17: 6449282 = 2385.4277
+18: 12589972 = 2378.1042
+19: 14669398 = 2348.6118
+20: 14994465 = 2341.3953
+
+
+
+813286 => @BarackObama
+14224719 => @Number10gov
+15131310 => @WholeFoods
+31567254 => @RiotNome
+16409683 => @britneyspears
+14075928 => @TheOnion
+7040932 => @tonyhsieh
+12687952 => @BJMendelson
+5380672 => @threadless
+26784273 => @charitywater
+17850012 => @Radioblogger
+5741722 => @nprpolitics
+5741722 => @nprpolitics
+6149912 => @LiveEarth
+5210841 => @ScotMcKay
+20385404 => @
+14389132 => @nansen
+6449282 => @JetBlue
+12589972 => @xavierlur
+14669398 => @BradHoward
+14994465 => @jimmyeatworld
+
+Cluster repartition:
+cluster0: 8.411609
+cluster1: 9.29441
+cluster2: 7.9214077
+cluster3: 6.4067063
+cluster4: 7.819108
+cluster5: 9.170509
+cluster6: 9.92281
+cluster7: 11.963912
+cluster8: 15.062615
+cluster9: 14.026914
+
+
+0	5	good day today time back great night ll tonight school happy tomorrow morning hope home week fun wait sleep 
+1	5	lol don man ur yeah dont shit feel lmao real hate damn wanna stop fuck wow ass funny bad 
+2	5	http ly bit news ow van ik met vote je een nl het article op dat review nu search 
+3	5	rt twitter haha ya follow tweet hahaha ha di followers fb ga tweets gw ah plurk yg lo hehe 
+4	5	find win phone call world car iphone buy book top set red web support full send fan gs open 
+5	5	http tinyurl www twitpic make video free check blog live online music money post gd playing facebook business youtube 
+6	5	de da la eu en xd el em na um se pra te es por para live dia vou 
+7	5	work people ve watching game watch show life cool year things home pretty read won didn movie play thought 
+8	5	love im lt gt ms hey lnk ff girl big miss song omg hot baby amazing guys friend listening 
+9	5	job pm st jobs obama care city world food part change health september place office green state plan power 
+

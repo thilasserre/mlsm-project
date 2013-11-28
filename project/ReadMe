@@ -1,0 +1,20 @@
+For merging graph:
+java mergeGraph <graph1> <graph2> <resultGrapg>
+
+To analyze cluster( for example):
+java ClusterAnalyzer tweets.tsv mallet-2.0.7/data/output/milliontweets/milliontweets.doc-topics 1000.txt
+
+To train topic (for example):
+bin/mallet train-topics --input data/200mille.mallet --num-topics 10 --output-state data/output/200mille.topic-state.gz --output-model data/output/200mille.model --output-doc-topics data/output/200mille.doc-topics --output-topic-keys data/output/200mille.topic-keys --inferencer-filename 200mille.inferencer
+
+To import a file in Mallet (for example):
+bin/mallet import-file --input data/200mille.tsv --output data/200mille.mallet --keep-sequence --remove-stopwords
+
+To adapt tweets to Mallet format:
+java adaptMallet <oldFile> <newFile>
+
+To run PageRank:
+java -Xmx2048m -cp target/graphchi-java-0.2-jar-with-dependencies.jar  edu.cmu.graphchi.apps.Pagerank ../MLSM_Project/reply_network.edgelist 1 edgelist
+
+
+
